@@ -1,11 +1,11 @@
 # Ext.ux.AutoCompleteTextField
 ExtJS 6.5 modern autocomplete textfield
 
-##Demo
+## Demo
 
 Demo avaiable here https://fiddle.sencha.com/#view/editor&fiddle/27iv
 
-##Usage
+## Usage
 
     {
         xtype: 'autocompletetextfield',
@@ -23,7 +23,7 @@ Demo avaiable here https://fiddle.sencha.com/#view/editor&fiddle/27iv
         }
     }
     
-##Available configs
+## Available configs
 
 Config | Desc
 ------------ | -------------
